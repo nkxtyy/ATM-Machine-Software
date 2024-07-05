@@ -40,8 +40,11 @@ For detailed information about the project, refer to the [ATM_Machine_Software_D
 
 ## Output of the code
 ![Picture1](https://github.com/nkxtyy/ATM-Machine-Software/assets/145798344/e6cbb6d8-683f-472b-b2cb-bfa909c2f174)
+
 ![Picture2](https://github.com/nkxtyy/ATM-Machine-Software/assets/145798344/95cd4012-26c0-4e86-840a-8aaed5c65f9a)
+
 ![Picture3](https://github.com/nkxtyy/ATM-Machine-Software/assets/145798344/5379cff5-0723-4fd0-b178-fe24879a4105)
+
 ![Picture4](https://github.com/nkxtyy/ATM-Machine-Software/assets/145798344/865a63f3-3b02-4a09-a563-6b327bd4aa33)
 
 ## Table Structure
